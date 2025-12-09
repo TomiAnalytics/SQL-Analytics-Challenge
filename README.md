@@ -21,7 +21,10 @@ SQL (PostgreSQL/MySQL), Excel
 - Prioritize stock for high-demand products  
 - Design retention campaigns for loyal customers
 
-SQL-Analytics-Challenge/
+SQL-Analytics-Challenge
+
+├─ /data →https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 │
 ├─ /sql
 │    ├─ top_customers.sql
